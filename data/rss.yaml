@@ -1,10 +1,47 @@
 Anime:
-  - series: 86 -不存在的战区
+  - series: 女友成双
     type: 动漫
-    url: https://mikanani.me/RSS/Bangumi?bangumiId=2456&subgroupid=552
+    url: https://mikanani.me/RSS/Bangumi?bangumiId=2527&subgroupid=552
     source: Mikan
     regex: .+ [0-9]+ .+1080p.+
-    path: /downloads/番剧/连载中/86/
+    path: /downloads/番剧/连载中/女友成双/
+  - series: 精灵幻想记
+    type: 动漫
+    url: https://mikanani.me/RSS/Bangumi?bangumiId=2518&subgroupid=562
+    source: Mikan
+    regex: .+ [0-9]+ .+1080p.+
+    path: /downloads/番剧/连载中/精灵幻想记/
+  - series: 现实主义勇者的王国再建记
+    type: 动漫
+    url: https://mikanani.me/RSS/Bangumi?bangumiId=2510&subgroupid=552
+    source: Mikan
+    regex: .+ [0-9]+ .+1080p.+
+    path: /downloads/番剧/连载中/现实主义勇者的王国再建记/
+  - series: 死神少爷与黑女仆
+    type: 动漫
+    url: https://mikanani.me/RSS/Bangumi?bangumiId=2502&subgroupid=552
+    source: Mikan
+    regex: .+ [0-9]+ .+1080p.+
+    path: /downloads/番剧/连载中/死神少爷与黑女仆/
+  - series: 白砂的水族馆
+    type: 动漫
+    url: https://mikanani.me/RSS/Bangumi?bangumiId=2508&subgroupid=552
+    source: Mikan
+    regex: .+ [0-9]+ .+1080p.+
+    path: /downloads/番剧/连载中/白砂的水族馆/
+  - series: 我们的重制人生
+    type: 动漫
+    url: https://mikanani.me/RSS/Bangumi?bangumiId=2505&subgroupid=552
+    source: Mikan
+    regex: .+ [0-9]+ .+1080p.+
+    path: /downloads/番剧/连载中/我们的重制人生/
+  - series: 转生恶役只好拔除破灭旗标
+    type: 动漫
+    url: https://mikanani.me/RSS/Bangumi?bangumiId=2500&subgroupid=552
+    source: Mikan
+    regex: .+ [0-9]+ .+1080p.+
+    path: /downloads/番剧/连载中/转生恶役只好拔除破灭旗标/
+    
     
     
     
